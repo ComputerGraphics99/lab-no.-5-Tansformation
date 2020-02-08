@@ -55,7 +55,7 @@ int main()
 	printf("\t\t\t\t(x1,y1)= (100,100)\n");
 	printf("\t\t\t\t(x2,y2)= (150,150\n");
 	printf("\n\n\n\n\t After scaling.\n\nBefore scaling");
-	printf("\n\n\t\t\t....Swornim Karma.....");
+	printf("\n\n\t\t\t....Anil Pahari.....");
 	rectangle(x1,y1,x2,y2);
 	getch();
 	closegraph();
@@ -85,7 +85,7 @@ scanf("%lf",&th);
 printf("\n\n\n\n\t\tCo-ordinates:\n");
 printf("\n\t\t\t(x1,y1) = (200, 250)");
 printf("\n\t\t\t(x2,y2) = (400, 410)");
-printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t***SWORNIM KARMA***\n");
+printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t***Anil Pahari***\n");
 r11=cos((th*3.1428)/180);
 r12=sin((th*3.1428)/180);
 r21=(-sin((th*3.1428)/180));
